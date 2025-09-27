@@ -1,0 +1,15 @@
+{
+  "name": "meu-chatbot",
+  "version": "1.0.0",
+  "main": "api/webhook.js",
+  "scripts": {
+    "start": "node api/webhook.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
